@@ -1,0 +1,14 @@
+{
+  "name": "aleksandr-vykhodchenko/useragentparser",
+  "description": "aleksandr-vykhodchenko maxmind-adapter",
+  "autoload": {
+    "psr-4": {
+      "Aleksandr\\UserAgentParser\\": "src/"
+
+    }
+
+  }
+
+
+
+}
